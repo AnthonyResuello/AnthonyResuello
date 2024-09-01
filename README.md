@@ -1,4 +1,4 @@
-# About Me 🙋🏻‍♂️
+
 ![I am GitHub Readme Generator's creator](https://github.com/user-attachments/assets/3e609bd9-7e8d-4516-814c-6c860d5d5b03)
 
 Hello! I’m Anthony Resuello, a university student with a passion for web design and a strong drive to keep learning. I enjoy being creative with technology and am always looking for ways to improve my skills.
