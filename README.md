@@ -21,8 +21,8 @@
 ---
 
 ## 📫 Connect with me  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
-- [Portfolio Website](https://your-portfolio-link.com)  
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/anthony-resuello-257149294))  
+- [Portfolio Website]([https://your-portfolio-link.com](https://anthonyresuellowebsite.vercel.app))  
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=AnthonyResuello&repo=github-visitors-badge&countColor=%237B1E7A)
