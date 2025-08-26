@@ -11,15 +11,11 @@
 
 🔧 Skills
 
-HTML5 / CSS3 / JavaScript
-
-React.js (currently learning)
-
-Responsive Web Design
-
-Git & GitHub
-
-Teamwork & Collaboration
+- HTML5 / CSS3 / JavaScript
+- React.js (currently learning)
+- Responsive Web Design
+- Git & GitHub
+- Teamwork & Collaboration
 
 📫 Connect with me
 
