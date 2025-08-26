@@ -4,9 +4,13 @@
 👋 Hi, I’m Anthony Resuello
 
 🎓 Computer Science graduate with first-class honours
+
 💻 Aspiring Front-End Web Developer
+
 🌱 Currently improving my skills in HTML, CSS, JavaScript, and React
+
 🚀 Passionate about building responsive, user-friendly websites
+
 📂 Check out my projects below to see what I’ve been working on!
 
 🔧 Skills
