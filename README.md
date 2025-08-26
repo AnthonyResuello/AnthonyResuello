@@ -1,17 +1,31 @@
 # About Me 🙋🏻‍♂️
 ![I am GitHub Readme Generator's creator](https://github.com/user-attachments/assets/3e609bd9-7e8d-4516-814c-6c860d5d5b03)
 
-Hello! I’m Anthony Resuello, a university student with a passion for web design and a strong drive to keep learning. I enjoy being creative with technology and am always looking for ways to improve my skills.
+👋 Hi, I’m Anthony Resuello
 
-I have experience in web development, working with HTML, CSS, and JavaScript to create user-friendly interfaces. I also have a background in programming, particularly in Python and Java, which has helped me become a strong problem solver and quick learner.
+🎓 Computer Science graduate with first-class honours
+💻 Aspiring Front-End Web Developer
+🌱 Currently improving my skills in HTML, CSS, JavaScript, and React
+🚀 Passionate about building responsive, user-friendly websites
+📂 Check out my projects below to see what I’ve been working on!
 
-I’m excited about the future and the opportunities it holds for continuous growth and learning. Thanks for stopping by, and feel free to check out my projects!
+🔧 Skills
 
-Skills: Java / C# / PHP / HTML / CSS 
+HTML5 / CSS3 / JavaScript
 
-- 🔭 I’m currently working on learning new programming languages :) 
-- 🌱 I’m currently learning Web Dev and Game Dev 
-- 📫 How to reach me: LinkedIn
+React.js (currently learning)
+
+Responsive Web Design
+
+Git & GitHub
+
+Teamwork & Collaboration
+
+📫 Connect with me
+
+https://www.linkedin.com/in/anthony-resuello-257149294
+
+https://anthonyresuellowebsite.vercel.app
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=AnthonyResuello&repo=github-visitors-badge&countColor=%237B1E7A)
 
